@@ -13,7 +13,7 @@ Deliverables
 2) Sequence diagrams showing how to navigate the university object model to deliver performance metrics needed for performance and feedback.
 3) A class diagram showing the changes to the university model to support the new capabilities. This diagram must include the additional methods and attributes required to deliver the results.
  
-Note
+Note:
 Java implementation is not required, just a report with the specifications of how to implement such
 a solution. This report is required to be uploaded on GitHub.
 
