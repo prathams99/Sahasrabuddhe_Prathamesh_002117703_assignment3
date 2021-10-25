@@ -65,5 +65,5 @@ Alumni Feedback
 Faculty Feedback
 ----------------
 <p align="center">
-    <img src="https://i.imgur.com/JllnNzW.png">
+    <img src="https://i.imgur.com/jGTwUVn.png">
 </p>
